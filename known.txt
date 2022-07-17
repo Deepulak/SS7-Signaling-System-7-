@@ -1,0 +1,64 @@
+digital-to-analog converters (DACs)
+
+network interface device - NID
+
+
+COs, also known as end offices (EOs), are centralized locations that include device
+switches, multiplexers (MUXs) and demultiplexers (DEMUXs), Digital Access and
+Crossconnect Systems (DACSs), and a wide variety of other equipment that is discussed in
+detail later in the book.
+
+However, the
+recent developments in the area of digital technology, most notably synchronous optical
+network (SONET) and synchronous digital hierarchy (SDH), have enabled service
+providers to deploy fiber-optic trunks directly to IDLCs from the CO.
+
+Some of the new services designed into the framework are Hybrid Fiber Coax (HFC),
+xDSL, Fiber to the Curb, and the integration of ISDN equipment directly into the SLC. This
+design set the pace for what is now called Next Generation-IDLC (NG-IDLC). GR-303-
+CORE also specifies a set of standard deployment methodologies for bridging the gap
+among vendors and technologies.
+
+The three devices you see the most are the Service
+Switching Point (SSP), Signal Transfer Point (STP), and the Service Control Point (SCP)
+
+SSPs are switches that reside at service provider end offices (EOs) or central offices (COs)
+
+SLS - Signaling Link Selection
+
+SLC - Signaling Link Code
+
+CICs - Certificate Identification Codes
+
+A-link — Access link
+B-link — Bridge link
+C-link — Cross link
+D-link — Diagonal link
+E-link — Extended link
+F-link — Fully-associated link
+
+International
+Organization for Standardization - ISO
+
+MTP1—Message Transfer Part Layer 1
+
+ISUP Starting point
+
+
+Two algorithms are in use today for error reduction in the quantizing phase:
+• μ-Law (pronounced mu-law—also known as μ-255)—Used in North America and
+Japan
+• A-Law—Used in Europe and the rest of the world
+
+The digital signal level 0 (DS-0)
+
+
+There are 256 discrete values, 0 to 127 and –0 to –127. The actual zero signal level is not
+represented. The first bit is the sign bit, which allows for a value of 0 with a negative sign
+bit, basically –0, as the first value below the x-axis.
+
+Integrated Services Digital Network Basic Rate Interface (ISDN
+BRI)
+
+
+
